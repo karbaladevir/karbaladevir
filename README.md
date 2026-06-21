@@ -12,12 +12,12 @@
 
 <h3 align="center">
   <b>
-    <img src="https://www.emojiall.com/images/240/telegram/1f4a1.gif" width="22" /> 
+    <img src="https://www.emojiall.com/images/240/telegram/1f4a1.gif" width="22" />
     إذا كانَ يَوم العاشِرِ كانَ يَوم مُصيبَتِهِ وَحُزنِهِ وَبُكائِهِ 
+    <img src="https://www.emojiall.com/images/240/telegram/1f3f4.gif" width="22" />
     <img src="https://www.emojiall.com/images/240/telegram/1f54c.gif" width="22" />
   </b>
 </h3>
-
 ---
 
 ## 🚀 درباره تیم در راه کربلا
