@@ -4,9 +4,9 @@
 
 
 <h2 align="center">
-    <img src="https://www.emojiall.com/images/240/telegram/2728.gif" width="40" />
+    <img src="https://www.emojiall.com/images/240/telegram/2728.gif" width="26" />
    KarbalaDev | تیم در راه کربلا 
-    <img src="https://www.emojiall.com/images/240/telegram/2728.gif" width="40" />
+    <img src="https://www.emojiall.com/images/240/telegram/2728.gif" width="26" />
 </h2>
 
 
@@ -23,9 +23,9 @@
 
 ---
 
-<img src="https://www.emojiall.com/images/240/telegram/1f31f.gif" width="40" /> ## درباره تیم در راه کربلا
-
-KarbalaDev یک مجموعه تخصصی در حوزه توسعه نرم‌افزار، طراحی وب‌سایت، هوش مصنوعی و تولید محتوای دیجیتال است.
+<img src="https://www.emojiall.com/images/240/telegram/1f31f.gif" width="40" /> <h3 align="center"> درباره تیم در راه کربلا
+</h3>
+تیم در راه کربلا یک مجموعه تخصصی در حوزه توسعه نرم‌افزار، طراحی وب‌سایت، هوش مصنوعی و تولید محتوای دیجیتال است<img src="https://www.emojiall.com/images/240/telegram/1f4bb.gif" width="40" />.
 
 ---
 
