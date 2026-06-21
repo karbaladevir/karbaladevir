@@ -3,12 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="45" />
-  <img src="https://www.emojiall.com/images/240/telegram/1f54c.gif" width="35" />
-  <img src="https://www.emojiall.com/images/240/telegram/1f3f4.gif" width="35" />
-  <img src="https://www.emojiall.com/images/240/telegram/2728.gif" width="30" />
-  <img src="https://www.emojiall.com/images/240/telegram/1f4a5.gif" width="30" />
-  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="45" />
+  <img src="https://www.emojiall.com/images/240/telegram/1f54c.gif" width="40" />
+  <img src="https://www.emojiall.com/images/240/telegram/1f3f4.gif" width="40" />
+  <img src="https://www.emojiall.com/images/240/telegram/2728.gif" width="35" />
+  <img src="https://www.emojiall.com/images/240/telegram/1f4a5.gif" width="35" />
+  <img src="https://www.emojiall.com/images/240/telegram/1f54c.gif" width="40" />
 </p>
 
 <h2 align="center">✨ KarbalaDev | تیم در راه کربلا ✨</h2>
@@ -18,11 +17,17 @@
 </p>
 
 <p align="center">
-  <img src="https://www.emojiall.com/images/240/telegram/1f4a5.gif" width="20" />
-  <img src="https://www.emojiall.com/images/240/telegram/1f3f4.gif" width="20" />
-  <img src="https://www.emojiall.com/images/240/telegram/1f54c.gif" width="20" />
-  <img src="https://www.emojiall.com/images/240/telegram/2728.gif" width="20" />
-  <img src="https://www.emojiall.com/images/240/telegram/1f4a5.gif" width="20" />
+  <a href="https://karbaladev.ir">
+    <img src="https://img.shields.io/badge/🌐_وب‌سایت-karbaladev.ir-5A4AF4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://www.emojiall.com/images/240/telegram/1f4a5.gif" width="18" />
+  <img src="https://www.emojiall.com/images/240/telegram/1f3f4.gif" width="18" />
+  <img src="https://www.emojiall.com/images/240/telegram/1f54c.gif" width="18" />
+  <img src="https://www.emojiall.com/images/240/telegram/2728.gif" width="18" />
+  <img src="https://www.emojiall.com/images/240/telegram/1f4a5.gif" width="18" />
 </p>
 
 ---
