@@ -14,7 +14,7 @@
 
 ---
 
-### درباره ما
+### <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="24" /> درباره ما
 
 تیم در راه کربلا یک مجموعه تخصصی در حوزه توسعه نرم‌افزار، طراحی وب‌سایت، هوش مصنوعی و تولید محتوای دیجیتال است.
 
@@ -22,7 +22,7 @@
 
 ---
 
-### خدمات
+### <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="24" /> خدمات
 
 **توسعه وب**  
 طراحی سایت‌های شرکتی، فروشگاهی، شخصی و مذهبی
@@ -44,7 +44,7 @@ Docker · Linux · Nginx · Server Management
 
 ---
 
-### تکنولوژی‌ها
+### <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="24" /> تکنولوژی‌ها
 
 React · Next.js · Vue · Node.js · Laravel  
 Python · Django · FastAPI · Flutter  
