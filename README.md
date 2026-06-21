@@ -20,126 +20,110 @@
 
 ## 🚀 درباره تیم در راه کربلا
 
-تیم در راه کربلا (KarbalaDev) یک مجموعه تخصصی در حوزه توسعه نرم‌افزار، طراحی وب‌سایت، هوش مصنوعی و تولید محتوای دیجیتال است که با هدف ترکیب فناوری مدرن و فرهنگ اسلامی شکل گرفته است. این تیم تلاش می‌کند با استفاده از دانش روز برنامه‌نویسی و ابزارهای نوین، خدماتی ارائه دهد که هم در حوزه فنی و هم در حوزه فرهنگی و رسانه‌ای ارزشمند باشند.
-
-در دنیای امروز که تکنولوژی بخش جدایی‌ناپذیر زندگی انسان‌ها شده است، تیم در راه کربلا تلاش می‌کند پلی میان فناوری و ارزش‌های معنوی ایجاد کند. این مجموعه با تکیه بر تجربه در زمینه توسعه وب، طراحی سیستم‌های تحت وب، ساخت API، توسعه ربات‌های هوشمند و پیاده‌سازی سیستم‌های مبتنی بر هوش مصنوعی، پروژه‌های متنوعی را اجرا می‌کند.
+KarbalaDev یک مجموعه تخصصی در حوزه توسعه نرم‌افزار، طراحی وب‌سایت، هوش مصنوعی و تولید محتوای دیجیتال است.
 
 ---
 
-## ✨ حوزه‌های فعالیت KarbalaDev
+## 📌 درباره
 
-### 🌐 توسعه وب و طراحی سایت
-طراحی و توسعه وب‌سایت‌های مدرن شامل:
+<p align="center">
+<img src="https://www.emojiall.com/images/240/telegram/1f4cc.gif" width="28" />
+</p>
+
+تیم در راه کربلا تلاش می‌کند فناوری مدرن را با ارزش‌های فرهنگی و معنوی ترکیب کند.
+
+---
+
+## 💻 توسعه وب
+
+<p align="center">
+<img src="https://www.emojiall.com/images/240/telegram/1f4bb.gif" width="30" />
+</p>
+
 - سایت‌های شرکتی
 - فروشگاهی
 - شخصی
-- مذهبی و فرهنگی
-
-تکنولوژی‌ها:
-HTML5، CSS3، JavaScript، React، Next.js، Laravel
-
-<p align="center">
-<img src="https://www.emojiall.com/images/240/telegram/1f4bb.gif" width="28" />
-</p>
+- مذهبی
 
 ---
 
-### ⚙️ بک‌اند و API
-طراحی APIهای امن، سریع و مقیاس‌پذیر برای:
-- اپلیکیشن‌ها
-- وب‌سایت‌ها
-- سیستم‌های مختلف
-
-تکنولوژی‌ها:
-Python (FastAPI, Django)، PHP (Laravel)، Node.js
+## ⚙️ بک‌اند و API
 
 <p align="center">
-<img src="https://www.emojiall.com/images/240/telegram/2699.gif" width="28" />
+<img src="https://www.emojiall.com/images/240/telegram/2699.gif" width="30" />
 </p>
+
+- FastAPI
+- Laravel
+- Node.js
 
 ---
 
-### 🤖 هوش مصنوعی و سیستم‌های هوشمند
-- چت‌بات‌ها
+## 🤖 هوش مصنوعی
+
+<p align="center">
+<img src="https://www.emojiall.com/images/240/telegram/1f916.gif" width="30" />
+</p>
+
+- چت‌بات
 - NLP
-- تحلیل داده
+- LLM
+
+---
+
+## 📡 ربات تلگرام
+
+<p align="center">
+<img src="https://www.emojiall.com/images/240/telegram/1f4f1.gif" width="30" />
+</p>
+
+- مدیریت گروه
 - اتوماسیون
-
-<p align="center">
-<img src="https://www.emojiall.com/images/240/telegram/1f916.gif" width="28" />
-</p>
-
----
-
-### 📡 ربات‌های تلگرام و اتوماسیون
-- مدیریت گروه‌ها
-- اطلاع‌رسانی
-- فروش و خدمات
 - Web Scraping
-- اتصال API
-
-<p align="center">
-<img src="https://www.emojiall.com/images/240/telegram/1f4f1.gif" width="28" />
-</p>
 
 ---
 
-### 🧠 مدیریت سرور و DevOps
-- لینوکس
+## 🧠 DevOps
+
+<p align="center">
+<img src="https://www.emojiall.com/images/240/telegram/1f9e0.gif" width="30" />
+</p>
+
 - Docker
+- Linux
 - Nginx
-- CDN
-- بهینه‌سازی سرعت
+- Server Management
+
+---
+
+## 🕌 بخش فرهنگی
 
 <p align="center">
-<img src="https://www.emojiall.com/images/240/telegram/1f9e0.gif" width="28" />
+<img src="https://www.emojiall.com/images/240/telegram/1f54c.gif" width="28" />
+<img src="https://www.emojiall.com/images/240/telegram/1f3f4.gif" width="28" />
+<img src="https://www.emojiall.com/images/240/telegram/1f4a1.gif" width="28" />
 </p>
 
----
-
-## 🕌 بخش فرهنگی و مذهبی
-
-برخلاف بسیاری از تیم‌های برنامه‌نویسی، KarbalaDev فقط یک مجموعه فنی نیست. این تیم با الهام از فرهنگ عاشورا و مفاهیم کربلا شکل گرفته است.
-
-فعالیت‌ها:
-- تولید محتوای مذهبی
-- طراحی پوسترهای محرم
-- استوری‌های مناسبتی
-- رسانه هیئت‌ها
-
-<p align="center">
-<img src="https://www.emojiall.com/images/240/telegram/1f54a.gif" width="28" />
-<img src="https://www.emojiall.com/images/240/telegram/1f3f9.gif" width="28" />
-<img src="https://www.emojiall.com/images/240/telegram/1f5e3.gif" width="28" />
-</p>
+تولید محتوای مذهبی، محرم و رسانه هیئت‌ها
 
 ---
 
-## 🧰 تکنولوژی‌های مورد استفاده
+## 🧰 تکنولوژی‌ها
 
-HTML5 · CSS3 · JavaScript · TypeScript  
-React · Next.js · Vue.js  
-Node.js · Laravel · Django · FastAPI  
-Flutter  
-MySQL · PostgreSQL · MongoDB · Redis  
-Docker · Kubernetes · Nginx · Linux · Ubuntu  
-Python · PHP  
-Git · GitHub · VS Code · Figma · Cloudflare · WordPress · npm
+React · Next.js · Vue · Node.js · Laravel  
+Python · Django · FastAPI · Flutter  
+Docker · Kubernetes · Linux · Nginx  
+MongoDB · PostgreSQL · Redis
 
 ---
 
-## 🎯 هدف و چشم‌انداز
+## 🏴 جمع‌بندی
 
-هدف اصلی تیم در راه کربلا (KarbalaDev) ایجاد یک اکوسیستم دیجیتال پیشرفته است که بتواند نیازهای نرم‌افزاری، هوش مصنوعی و رسانه‌ای را در کنار ارزش‌های فرهنگی و معنوی پوشش دهد.
-
----
-
-## 🧭 جمع‌بندی
-
-KarbalaDev تنها یک تیم برنامه‌نویسی نیست؛ بلکه ترکیبی از فناوری، خلاقیت و ارزش‌های فرهنگی است.
+KarbalaDev فقط یک تیم نیست؛  
+ترکیب فناوری + فرهنگ + خلاقیت است.
 
 ---
 
 <p align="center">
-2024–2026 KarbalaDev — تیم در راه کربلا
+2024–2026 KarbalaDev
 </p>
