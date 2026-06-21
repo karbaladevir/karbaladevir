@@ -2,9 +2,6 @@
   <img src="https://abrehamrahi.ir/o/public/mGVHFLps/" width="400" />
 </p>
 
-<p align="center">
-  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f3f4.png" width="28" />
-</p>
 
 <h2 align="center">
     <img src="https://www.emojiall.com/images/240/telegram/2728.gif" width="22" />
@@ -12,9 +9,7 @@
     <img src="https://www.emojiall.com/images/240/telegram/2728.gif" width="22" />
 </h2>
 
-<p align="center">
-  <b>تیم در راه کربلا | KarbalaDev</b>
-</p>
+
 
 ---
 
