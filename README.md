@@ -22,8 +22,8 @@
 </h3>
 
 ---
-
-<img src="https://www.emojiall.com/images/240/telegram/1f31f.gif" width="40" /> <h3 align="center"> درباره تیم در راه کربلا
+<h3 
+<img src="https://www.emojiall.com/images/240/telegram/1f31f.gif" width="40" /> align="center"> درباره تیم در راه کربلا
 </h3>
 تیم در راه کربلا یک مجموعه تخصصی در حوزه توسعه نرم‌افزار، طراحی وب‌سایت، هوش مصنوعی و تولید محتوای دیجیتال است<img src="https://www.emojiall.com/images/240/telegram/1f4bb.gif" width="40" />.
 
