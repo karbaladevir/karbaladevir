@@ -1,66 +1,26 @@
+
 <p align="center">
   <img src="https://abrehamrahi.ir/o/public/mGVHFLps/" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="60" />
-  <img src="https://www.emojiall.com/images/240/telegram/1f3f4.gif" width="40" />
+  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="50" />
   <img src="https://www.emojiall.com/images/240/telegram/1f54c.gif" width="40" />
-  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="60" />
+  <img src="https://www.emojiall.com/images/240/telegram/1f3f4.gif" width="40" />
+  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="50" />
 </p>
 
-<h1 align="center">
-  🔥 KarbalaDev 🔥
+<h1 align="center" style="color: #8b0000; font-family: 'Traditional Arabic', 'B Nazanin', serif;">
+  ﷽
 </h1>
 
-<h2 align="center">
-  <b>تیم در راه کربلا</b>
+<h2 align="center" style="color: #8b0000; font-family: 'Traditional Arabic', 'B Nazanin', serif;">
+  🌙 یا اَباعَبدِاللهِ الحُسَین (ع) 🌙
 </h2>
 
-<p align="center">
-  <img src="https://www.emojiall.com/images/240/telegram/1f4a5.gif" width="30" />
-  <b>مهندسی کد با عشق حسینی</b>
-  <img src="https://www.emojiall.com/images/240/telegram/1f4a5.gif" width="30" />
+<p align="center" style="font-family: 'Traditional Arabic', 'B Nazanin', serif; font-size: 18px; color: #4a4a4a;">
+  <i>«کُلُّ یَوْمٍ عَاشُورَا وَ کُلُّ أَرْضٍ کَرْبَلَا»</i>
 </p>
-
-<p align="center">
-  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="30" />
-  <img src="https://www.emojiall.com/images/240/telegram/2728.gif" width="25" />
-  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="30" />
-  <img src="https://www.emojiall.com/images/240/telegram/2728.gif" width="25" />
-  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="30" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://www.emojiall.com/images/240/telegram/1f4a1.gif" width="28" />
-  <b><i>إذا كانَ يَوم العاشِرِ كانَ يَوم مُصيبَتِهِ وَحُزنِهِ وَبُكائِهِ</i></b>
-  <img src="https://www.emojiall.com/images/240/telegram/1f4a1.gif" width="28" />
-</p>
-
----
-
-## <img src="https://www.emojiall.com/images/240/telegram/1f680.gif" width="30" /> **درباره ما**
-
-<p align="justify">
-  <b>KarbalaDev</b> یک مجموعه <b>نخبه‌محور</b> در حوزه <b>توسعه نرم‌افزار</b>، <b>طراحی وب‌سایت</b>، <b>هوش مصنوعی</b> و <b>تولید محتوای دیجیتال</b> است. 
-  ما کدنویسی را با <b>عشق به اباعبدالله الحسین (ع)</b> گره زده‌ایم و تکنولوژی را در مسیر <b>خدمت به فرهنگ و معنویت</b> به کار می‌گیریم.
-</p>
-
----
-
-## <img src="https://www.emojiall.com/images/240/telegram/1f4cc.gif" width="30" /> **چشم‌انداز**
-
-<p align="center">
-  <img src="https://www.emojiall.com/images/240/telegram/1f3f4.gif" width="35" />
-  <b>ترکیب فناوری مدرن با ارزش‌های جاودان عاشورایی</b>
-  <img src="https://www.emojiall.com/images/240/telegram/1f3f4.gif" width="35" />
-</p>
-
----
-
-## <img src="https://www.emojiall.com/images/240/telegram/1f4bb.gif" width="30" /> **توسعه وب حرفه‌ای**
 
 <p align="center">
   <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="25" />
@@ -70,150 +30,173 @@
   <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="25" />
 </p>
 
-| نوع سایت | توضیحات |
-|----------|---------|
-| 🏢 شرکتی | هویت دیجیتال حرفه‌ای برای برند شما |
-| 🛒 فروشگاهی | فروشگاه اینترنتی با تجربه کاربری عالی |
-| 👤 شخصی | وب‌سایت شخصی و رزومه آنلاین |
-| 🕌 مذهبی | پلتفرم‌های فرهنگی و مذهبی |
+---
+
+## <img src="https://www.emojiall.com/images/240/telegram/1f54c.gif" width="28" /> درباره تیم در راه کربلا
+
+**KarbalaDev** تیمی از **برنامه‌نویسان و طراحان متعهد** است که مسیر حرفه‌ای خود را با **عشق به حضرت سیدالشهدا (ع)** گره زده‌اند. ما با **توکل بر خدا** و تأسی از **فرهنگ عاشورایی**، در عرصه **توسعه نرم‌افزار، طراحی وب، هوش مصنوعی و تولید محتوای دیجیتال** فعالیت می‌کنیم و همواره **اخلاق و خدمت** را سرلوحه کار خود قرار می‌دهیم.
 
 ---
 
-## <img src="https://www.emojiall.com/images/240/telegram/2699.gif" width="30" /> **بک‌اند و API**
+## <img src="https://www.emojiall.com/images/240/telegram/1f3f4.gif" width="28" /> چشم‌انداز ما
 
 <p align="center">
-  <img src="https://www.emojiall.com/images/240/telegram/1f4a5.gif" width="25" />
-  <b>قلب تپنده پروژه‌های شما</b>
-  <img src="https://www.emojiall.com/images/240/telegram/1f4a5.gif" width="25" />
+  <b>﴿ ترکیب فناوری روز با فرهنگ ناب عاشورایی ﴾</b>
+</p>
+
+<p align="center">
+  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="20" />
+  <img src="https://www.emojiall.com/images/240/telegram/1f4a1.gif" width="20" />
+  <img src="https://www.emojiall.com/images/240/telegram/1f54c.gif" width="20" />
+  <img src="https://www.emojiall.com/images/240/telegram/1f3f4.gif" width="20" />
+  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="20" />
+</p>
+
+---
+
+## <img src="https://www.emojiall.com/images/240/telegram/1f4bb.gif" width="28" /> خدمات توسعه وب
+
+<p align="center">
+  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="18" />
+  <img src="https://www.emojiall.com/images/240/telegram/2728.gif" width="15" />
+  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="18" />
+  <img src="https://www.emojiall.com/images/240/telegram/2728.gif" width="15" />
+  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="18" />
+</p>
+
+| 🏢 **سایت شرکتی** | 🛒 **فروشگاهی** | 👤 **شخصی و رزومه** | 🕌 **مذهبی و فرهنگی** |
+|:---:|:---:|:---:|:---:|
+| هویت دیجیتال حرفه‌ای | فروشگاه اینترنتی پیشرفته | نمایش توانمندی‌های شما | پلتفرم هیئت و موکب |
+
+---
+
+## <img src="https://www.emojiall.com/images/240/telegram/2699.gif" width="28" /> بک‌اند و API نویسی
+
+<p align="center">
+  <b>⚡ ساختارهای مقاوم و پرشتاب ⚡</b>
 </p>
 
 ```
-⚡ FastAPI     →  سرعت و کارایی بالا
-🎯 Laravel    →  ساختار منظم و امن
-🚀 Node.js    →  مقیاس‌پذیری بی‌نهایت
+🔹 FastAPI     →  سرعت و کارایی بالا
+🔹 Laravel     →  امنیت و نظم بی‌نظیر
+🔹 Node.js     →  مقیاس‌پذیری برای پروژه‌های بزرگ
 ```
 
 ---
 
-## <img src="https://www.emojiall.com/images/240/telegram/1f916.gif" width="30" /> **هوش مصنوعی پیشرفته**
+## <img src="https://www.emojiall.com/images/240/telegram/1f916.gif" width="28" /> هوش مصنوعی و یادگیری ماشین
 
 <p align="center">
-  <img src="https://www.emojiall.com/images/240/telegram/1f9e0.gif" width="35" />
-  <b>آینده همین الآن است</b>
-  <img src="https://www.emojiall.com/images/240/telegram/1f9e0.gif" width="35" />
+  <img src="https://www.emojiall.com/images/240/telegram/1f9e0.gif" width="30" />
+  <b>پیشرو در فناوری‌های نوین</b>
+  <img src="https://www.emojiall.com/images/240/telegram/1f9e0.gif" width="30" />
 </p>
 
 - 🧠 **چت‌بات‌های هوشمند** با پردازش زبان طبیعی
-- 📊 **تحلیل داده** با الگوریتم‌های پیشرفته
+- 📊 **تحلیل پیش‌بینی** داده‌های پیچیده
 - 🤖 **سیستم‌های توصیه‌گر** شخصی‌سازی‌شده
-- 💬 **مدل‌های بزرگ زبانی (LLM)** متناسب با نیاز شما
+- 💬 **مدل‌های زبانی بزرگ (LLM)** بومی‌سازی‌شده
 
 ---
 
-## <img src="https://www.emojiall.com/images/240/telegram/1f4f1.gif" width="30" /> **ربات‌های تلگرام**
+## <img src="https://www.emojiall.com/images/240/telegram/1f4f1.gif" width="28" /> ربات‌های تلگرام
 
 <p align="center">
-  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="20" />
-  <img src="https://www.emojiall.com/images/240/telegram/1f4e3.gif" width="25" />
-  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="20" />
-  <img src="https://www.emojiall.com/images/240/telegram/1f4e3.gif" width="25" />
-  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="20" />
+  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="18" />
+  <img src="https://www.emojiall.com/images/240/telegram/1f4e3.gif" width="20" />
+  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="18" />
+  <img src="https://www.emojiall.com/images/240/telegram/1f4e3.gif" width="20" />
+  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="18" />
 </p>
 
-| قابلیت | کاربرد |
-|--------|--------|
-| 👥 مدیریت گروه | کنترل کامل و هوشمند گروه‌ها |
-| ⚙️ اتوماسیون | انجام خودکار وظایف تکراری |
-| 🕸️ Web Scraping | استخراج داده از وب‌سایت‌ها |
-| 📈 گزارش‌گیری | آمار و تحلیل لحظه‌ای |
+| 👥 **مدیریت گروه** | ⚙️ **اتوماسیون** | 🕸️ **Web Scraping** | 📈 **گزارش‌گیری** |
+|:---:|:---:|:---:|:---:|
+| کنترل هوشمند گروه‌ها | انجام خودکار وظایف | استخراج داده از وب | آمار و تحلیل لحظه‌ای |
 
 ---
 
-## <img src="https://www.emojiall.com/images/240/telegram/1f9e0.gif" width="30" /> **DevOps و زیرساخت**
+## <img src="https://www.emojiall.com/images/240/telegram/1f9e0.gif" width="28" /> DevOps و مدیریت زیرساخت
 
 <p align="center">
-  <img src="https://www.emojiall.com/images/240/telegram/1f4a5.gif" width="25" />
-  <b>زیرساخت‌های مقاوم و مقیاس‌پذیر</b>
-  <img src="https://www.emojiall.com/images/240/telegram/1f4a5.gif" width="25" />
+  <b>زیرساخت‌های مطمئن و همیشه پایدار</b>
 </p>
 
 ```
 🐳 Docker        →  کانتینری‌سازی حرفه‌ای
-🐧 Linux         →  سرورهای پایدار و امن
-🔧 Nginx         →  لود بالانس و پروکسی
-📊 Monitoring    →  نظارت ۲۴/۷ بر سرورها
+🐧 Linux         →  سرورهای امن و بهینه
+🔧 Nginx         →  مدیریت ترافیک و لودبالانس
+📊 Monitoring    →  نظارت مستمر بر عملکرد
 ```
 
 ---
 
-## <img src="https://www.emojiall.com/images/240/telegram/1f54c.gif" width="30" /> **بخش فرهنگی و رسانه هیئت**
+## <img src="https://www.emojiall.com/images/240/telegram/1f54c.gif" width="28" /> بخش فرهنگی و رسانه هیئت
 
 <p align="center">
-  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="30" />
-  <img src="https://www.emojiall.com/images/240/telegram/1f3f4.gif" width="30" />
-  <img src="https://www.emojiall.com/images/240/telegram/1f54c.gif" width="30" />
-  <img src="https://www.emojiall.com/images/240/telegram/1f4a1.gif" width="30" />
-  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="30" />
+  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="28" />
+  <img src="https://www.emojiall.com/images/240/telegram/1f3f4.gif" width="28" />
+  <img src="https://www.emojiall.com/images/240/telegram/1f54c.gif" width="28" />
+  <img src="https://www.emojiall.com/images/240/telegram/1f4a1.gif" width="28" />
+  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="28" />
 </p>
 
-- 📝 **تولید محتوای مذهبی** با کیفیت بالا
-- 🎥 **پوشش رسانه‌ای مراسم محرم** و هیئت‌ها
-- 📱 **اپلیکیشن‌های فرهنگی** برای موکب‌ها
-- 🎨 **طراحی گرافیک** با مفاهیم عاشورایی
+- 📝 **تولید محتوای مذهبی** با کیفیت و مخاطب‌پسند
+- 🎥 **پوشش رسانه‌ای** مراسم محرم و هیئت‌ها
+- 📱 **اپلیکیشن‌های فرهنگی** برای موکب‌های حسینی
+- 🎨 **طراحی بصری** با مفاهیم عمیق عاشورایی
 
 ---
 
-## <img src="https://www.emojiall.com/images/240/telegram/1f4aa.gif" width="30" /> **تکنولوژی‌های ما**
+## <img src="https://www.emojiall.com/images/240/telegram/1f4aa.gif" width="28" /> استک فنی تیم
 
 <p align="center">
-  <img src="https://www.emojiall.com/images/240/telegram/2728.gif" width="20" />
-  <b>استک فنی کامل و به‌روز</b>
-  <img src="https://www.emojiall.com/images/240/telegram/2728.gif" width="20" />
+  <img src="https://www.emojiall.com/images/240/telegram/2728.gif" width="18" />
+  <b>تکنولوژی‌های به‌روز و قدرتمند</b>
+  <img src="https://www.emojiall.com/images/240/telegram/2728.gif" width="18" />
 </p>
 
-| دسته | تکنولوژی‌ها |
-|------|-------------|
-| **فرانت‌اند** | React · Next.js · Vue.js · Tailwind |
-| **بک‌اند** | Node.js · Laravel · Django · FastAPI |
-| **موبایل** | Flutter · React Native |
-| **دیتابیس** | MongoDB · PostgreSQL · Redis · MySQL |
-| **زیرساخت** | Docker · Kubernetes · Linux · Nginx |
-| **هوش مصنوعی** | Python · TensorFlow · PyTorch · LLM |
+| 🎨 **فرانت‌اند** | ⚙️ **بک‌اند** | 📱 **موبایل** | 🗄️ **دیتابیس** | ☁️ **زیرساخت** |
+|:---:|:---:|:---:|:---:|:---:|
+| React · Next.js · Vue | Node.js · Laravel · Django · FastAPI | Flutter · React Native | MongoDB · PostgreSQL · Redis · MySQL | Docker · Kubernetes · Linux · Nginx |
+
+> 🤖 **هوش مصنوعی:** Python · TensorFlow · PyTorch · LLM
 
 ---
 
-## <img src="https://www.emojiall.com/images/240/telegram/1f3f4.gif" width="30" /> **پیام نهایی**
+## <img src="https://www.emojiall.com/images/240/telegram/1f3f4.gif" width="28" /> سخن پایانی
 
-<p align="center">
-  <img src="https://www.emojiall.com/images/240/telegram/1f4a5.gif" width="30" />
-  <b><i>KarbalaDev فقط یک تیم نیست؛</i></b>
-  <img src="https://www.emojiall.com/images/240/telegram/1f4a5.gif" width="30" />
+<p align="center" style="font-family: 'Traditional Arabic', 'B Nazanin', serif; font-size: 20px; color: #8b0000;">
+  <b>﴿ وَ مَا تَوْفِيقِي إِلَّا بِاللَّهِ ﴾</b>
 </p>
 
 <p align="center">
-  <b>ترکیبی از <span style="color:#FF6B6B;">❤️ عشق حسینی</span> + <span style="color:#4ECDC4;">💻 فناوری روز</span> + <span style="color:#FFE66D;">✨ خلاقیت بی‌نهایت</span></b>
+  <b>KarbalaDev</b> تنها یک تیم نیست؛
 </p>
 
 <p align="center">
-  <img src="https://www.emojiall.com/images/240/telegram/1f54c.gif" width="40" />
-  <b>یا حسین (ع)</b>
-  <img src="https://www.emojiall.com/images/240/telegram/1f54c.gif" width="40" />
+  <b>❤️ عشق به سیدالشهدا</b> + <b>💻 دانش فنی روز</b> + <b>✨ خلاقیت بی‌نهایت</b>
+</p>
+
+<p align="center">
+  <img src="https://www.emojiall.com/images/240/telegram/1f54c.gif" width="35" />
+  <b style="font-family: 'Traditional Arabic', serif; font-size: 22px; color: #8b0000;">یا حسین (ع)</b>
+  <img src="https://www.emojiall.com/images/240/telegram/1f54c.gif" width="35" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="40" />
-  <img src="https://www.emojiall.com/images/240/telegram/1f3f4.gif" width="30" />
-  <img src="https://www.emojiall.com/images/240/telegram/1f54c.gif" width="30" />
-  <img src="https://www.emojiall.com/images/240/telegram/1f4a1.gif" width="30" />
-  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="40" />
+  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="35" />
+  <img src="https://www.emojiall.com/images/240/telegram/1f3f4.gif" width="25" />
+  <img src="https://www.emojiall.com/images/240/telegram/1f54c.gif" width="25" />
+  <img src="https://www.emojiall.com/images/240/telegram/1f4a1.gif" width="25" />
+  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="35" />
 </p>
 
 <p align="center">
-  <b>۲۰۲۴ – ۲۰۲۶ | KarbalaDev</b>
+  <b>۱۴۰۴ – ۱۴۰۶ | KarbalaDev</b>
 </p>
 
-<p align="center">
+<p align="center" style="font-family: 'Traditional Arabic', serif; color: #8b0000; font-size: 16px;">
   <i>«إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ»</i>
 </p>
