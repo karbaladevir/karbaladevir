@@ -15,38 +15,31 @@
   <b>تیم در راه کربلا | KarbalaDev</b>
 </p>
 
-<p align="center">
-  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="22" />
-  <img src="https://www.emojiall.com/images/240/telegram/1f4a5.gif" width="18" />
-  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="22" />
-</p>
-
 ---
 
 <h3 align="center">
   <b>
-    <img src="https://www.emojiall.com/images/240/telegram/1f4a1.gif" width="22" />
+    <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="22" />
     إذا كانَ يَوم العاشِرِ كانَ يَوم مُصيبَتِهِ وَحُزنِهِ وَبُكائِهِ
-    <img src="https://www.emojiall.com/images/240/telegram/1f3f4.gif" width="22" />
-    <img src="https://www.emojiall.com/images/240/telegram/1f54c.gif" width="22" />
+    <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="22" />
   </b>
 </h3>
 
 ---
 
-## <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="24" /> درباره تیم در راه کربلا
+## 🚀 درباره تیم در راه کربلا
 
 KarbalaDev یک مجموعه تخصصی در حوزه توسعه نرم‌افزار، طراحی وب‌سایت، هوش مصنوعی و تولید محتوای دیجیتال است.
 
 ---
 
-## <img src="https://www.emojiall.com/images/240/telegram/1f4cc.gif" width="24" /> درباره
+## 📌 درباره
 
 تیم در راه کربلا تلاش می‌کند فناوری مدرن را با ارزش‌های فرهنگی و معنوی ترکیب کند.
 
 ---
 
-## <img src="https://www.emojiall.com/images/240/telegram/1f4bb.gif" width="24" /> توسعه وب
+## 💻 توسعه وب
 
 - سایت‌های شرکتی
 - فروشگاهی
@@ -55,7 +48,7 @@ KarbalaDev یک مجموعه تخصصی در حوزه توسعه نرم‌افز
 
 ---
 
-## <img src="https://www.emojiall.com/images/240/telegram/2699.gif" width="24" /> بک‌اند و API
+## ⚙️ بک‌اند و API
 
 - FastAPI
 - Laravel
@@ -63,7 +56,7 @@ KarbalaDev یک مجموعه تخصصی در حوزه توسعه نرم‌افز
 
 ---
 
-## <img src="https://www.emojiall.com/images/240/telegram/1f916.gif" width="24" /> هوش مصنوعی
+## 🤖 هوش مصنوعی
 
 - چت‌بات
 - NLP
@@ -71,7 +64,7 @@ KarbalaDev یک مجموعه تخصصی در حوزه توسعه نرم‌افز
 
 ---
 
-## <img src="https://www.emojiall.com/images/240/telegram/1f4f1.gif" width="24" /> ربات تلگرام
+## 📡 ربات تلگرام
 
 - مدیریت گروه
 - اتوماسیون
@@ -79,7 +72,7 @@ KarbalaDev یک مجموعه تخصصی در حوزه توسعه نرم‌افز
 
 ---
 
-## <img src="https://www.emojiall.com/images/240/telegram/1f9e0.gif" width="24" /> DevOps
+## 🐳 DevOps
 
 - Docker
 - Linux
@@ -88,13 +81,13 @@ KarbalaDev یک مجموعه تخصصی در حوزه توسعه نرم‌افز
 
 ---
 
-## <img src="https://www.emojiall.com/images/240/telegram/1f54c.gif" width="24" /> بخش فرهنگی
+## 🕌 بخش فرهنگی
 
 تولید محتوای مذهبی، محرم و رسانه هیئت‌ها
 
 ---
 
-## <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="24" /> تکنولوژی‌ها
+## 🧰 تکنولوژی‌ها
 
 React · Next.js · Vue · Node.js · Laravel  
 Python · Django · FastAPI · Flutter  
@@ -103,7 +96,7 @@ MongoDB · PostgreSQL · Redis
 
 ---
 
-## <img src="https://www.emojiall.com/images/240/telegram/1f3f4.gif" width="24" /> جمع‌بندی
+## 🏴 جمع‌بندی
 
 KarbalaDev فقط یک تیم نیست؛  
 ترکیب فناوری + فرهنگ + خلاقیت است.
