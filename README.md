@@ -3,13 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="35" />
-  <img src="https://www.emojiall.com/images/240/telegram/1f54c.gif" width="28" />
-  <img src="https://www.emojiall.com/images/240/telegram/1f3f4.gif" width="28" />
-  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="35" />
+  <img src="https://www.emojiall.com/images/240/microsoft-teams/1f3f4.png" width="28" />
 </p>
 
-<h2 align="center">✨ KarbalaDev | تیم در راه کربلا ✨</h2>
+<h2 align="center">
+    <img src="https://www.emojiall.com/images/240/telegram/2728.gif" width="22" />
+   KarbalaDev | تیم در راه کربلا 
+    <img src="https://www.emojiall.com/images/240/telegram/2728.gif" width="22" />
+</h2>
 
 <p align="center">
   <b>تیم در راه کربلا | KarbalaDev</b>
