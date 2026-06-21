@@ -2,7 +2,7 @@
   <img src="https://abrehamrahi.ir/o/public/mGVHFLps/" width="140" />
 </p>
 
-<h1 align="center">🏴 KarbalaDev</h1>
+<h3 align="center"> ✨ KarbalaDev |تیم در راه کربلا </h1>
 
 <p align="center">
 تیم در راه کربلا | KarbalaDev  
@@ -11,8 +11,7 @@
 </p>
 
 ---
-
-<p align="center">
+<p align="center" style="color:red">
 إذا كانَ يَوم العاشِرِ كانَ يَوم مُصيبَتِهِ وَحُزنِهِ وَبُكائِهِ 🖤🥀
 </p>
 
