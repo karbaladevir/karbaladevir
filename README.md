@@ -11,7 +11,11 @@
 ---
 
 <h3 align="center">
-  <b>إذا كانَ يَوم العاشِرِ كانَ يَوم مُصيبَتِهِ وَحُزنِهِ وَبُكائِهِ 🖤🥀</b>
+  <b>
+    <img src="https://www.emojiall.com/images/240/telegram/1f4a1.gif" width="22" /> 
+    إذا كانَ يَوم العاشِرِ كانَ يَوم مُصيبَتِهِ وَحُزنِهِ وَبُكائِهِ 
+    <img src="https://www.emojiall.com/images/240/telegram/1f54c.gif" width="22" />
+  </b>
 </h3>
 
 ---
