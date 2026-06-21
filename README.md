@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://abrehamrahi.ir/o/public/mGVHFLps/" width="140" />
+  <img src="https://abrehamrahi.ir/o/public/mGVHFLps/" width="400" />
 </p>
 
 <h3 align="center">✨ KarbalaDev | تیم در راه کربلا ✨</h1>
@@ -10,9 +10,9 @@
   
 ---
 
-<p align="center">
+<h3 align="center">
   <b>إذا كانَ يَوم العاشِرِ كانَ يَوم مُصيبَتِهِ وَحُزنِهِ وَبُكائِهِ 🖤🥀</b>
-</p>
+</h3>
 
 ---
 
