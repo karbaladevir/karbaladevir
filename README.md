@@ -4,9 +4,9 @@
 
 
 <h2 align="center">
-    <img src="https://www.emojiall.com/images/240/telegram/2728.gif" width="22" />
+    <img src="https://www.emojiall.com/images/240/telegram/2728.gif" width="40" />
    KarbalaDev | تیم در راه کربلا 
-    <img src="https://www.emojiall.com/images/240/telegram/2728.gif" width="22" />
+    <img src="https://www.emojiall.com/images/240/telegram/2728.gif" width="40" />
 </h2>
 
 
@@ -17,13 +17,13 @@
   <b>
     <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="22" />
     إذا كانَ يَوم العاشِرِ كانَ يَوم مُصيبَتِهِ وَحُزنِهِ وَبُكائِهِ
-    <img src="https://www.emojiall.com/images/240/microsoft-teams/1f940.png" width="22" />
+    <img src="https://www.emojiall.com/images/240/microsoft-teams/1f3f4.png" width="22" />
   </b>
 </h3>
 
 ---
 
-## 🚀 درباره تیم در راه کربلا
+<img src="https://www.emojiall.com/images/240/telegram/1f31f.gif" width="40" /> ## درباره تیم در راه کربلا
 
 KarbalaDev یک مجموعه تخصصی در حوزه توسعه نرم‌افزار، طراحی وب‌سایت، هوش مصنوعی و تولید محتوای دیجیتال است.
 
